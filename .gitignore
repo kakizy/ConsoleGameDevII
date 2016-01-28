@@ -1,0 +1,13 @@
+*.opensdf 
+*.log
+*.sdf
+*.sln
+*.suo
+*\Logs
+Binaries
+DerivedDataCache
+Intermediate
+*.sdf
+*.sln
+MyProject3/MyProject3.sln
+MyProject3/MyProject3.sdf
